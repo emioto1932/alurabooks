@@ -45,10 +45,15 @@
   background-color: var(--branco);
 }
 
-.lista-menu__titulo,
 .lista-menu__item {
   padding: 1em;
 }
+
+.lista-menu__titulo {
+  color: var(--laranja);
+  font-weight: 700;
+}
+
 
 .lista-menu__link {
   background: var(--azul-degrade);
