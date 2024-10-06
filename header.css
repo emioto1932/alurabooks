@@ -34,7 +34,7 @@
 }
 
 .container__botao:checked ~ .lista-menu {
-    display: block;
+    display: npne;
 }
 .lista-menu {
   display: none;
